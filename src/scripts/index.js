@@ -4,4 +4,3 @@ import '../styles/main.scss';
 
 
 // \/ All of your javascript should go here \/
-
